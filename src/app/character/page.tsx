@@ -1,5 +1,5 @@
 import React from 'react'
-import Card from '../components/character/Card'
+import Card from '../components/Character/Card'
 
 export default function personagem() {
   return (
