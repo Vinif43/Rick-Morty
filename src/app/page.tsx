@@ -1,4 +1,3 @@
-import Footer from './components/footer/Footer'
 import About from './components/Home/About'
 import Welcome from './components/Home/Welcome'
 

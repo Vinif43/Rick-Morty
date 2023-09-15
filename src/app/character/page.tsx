@@ -1,5 +1,10 @@
 import React from 'react'
+import Card from '../components/Character/Card'
 
 export default function personagem() {
-  return <main>personagem</main>
+  return (
+    <main>
+      <Card />
+    </main>
+  )
 }
