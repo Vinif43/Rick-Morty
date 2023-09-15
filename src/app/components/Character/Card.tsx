@@ -19,6 +19,7 @@ export default function Card() {
         return (
           <div key={item.id}>
             <h1>{item.name}</h1>
+
             <img src={item.image} alt={item.name} />
           </div>
         )
